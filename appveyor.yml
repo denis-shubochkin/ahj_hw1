@@ -6,7 +6,6 @@ branches:
 cache: node_modules
 install:
  - yarn add
-build: off
 build_script: 
  - yarn build
 test_script:
