@@ -5,7 +5,7 @@ branches:
     - master
 cache: node_modules
 install:
- - yarn add
+ - yarn 
 build_script: 
  - yarn build
 test_script:
